@@ -13,7 +13,7 @@ npm install inboxthunks
 # example
 
 ```js
-var inbox = require ('./');
+var inbox = require ('inboxthunks');
 var co = require ('co');
 
 var client = inbox.init(false, 'imap.gmail.com', {
