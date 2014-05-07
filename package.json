@@ -25,5 +25,13 @@
     "client"
   ],
   "author": "Dhi Aurrahman <diorahman@rockybars.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diorahman/inboxthunks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diorahman/inboxthunks/issues"
+  },
+  "homepage": "https://github.com/diorahman/inboxthunks"
 }
