@@ -1,0 +1,29 @@
+{
+  "name": "inboxthunks",
+  "version": "0.0.1",
+  "description": "co-based inbox, inbox thunkified",
+  "main": "index.js",
+  "dependencies": {
+    "co": "~3.0.6",
+    "inbox": "~1.1.53",
+    "thunkify": "~2.1.1",
+    "should": "~3.3.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "inbox",
+    "email",
+    "imap",
+    "co",
+    "thunkify",
+    "thunks",
+    "client"
+  ],
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "MIT"
+}
